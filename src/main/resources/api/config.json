@@ -1,0 +1,15 @@
+{
+  "dateLibrary": "java8",
+  "useJakartaEe": true,
+  "useSpringBoot3": true,
+  "hideGenerationTimestamp": true,
+  "modelPackage": "com.example.users.rest.model",
+  "apiPackage": "com.example.users.rest",
+  "invokerPackage": "com.example.users.rest",
+  "serializableModel": true,
+  "useTags": true,
+  "useGzipFeature" : true,
+  "hateoas": false,
+  "withXml": false,
+  "interfaceOnly": true,
+}
